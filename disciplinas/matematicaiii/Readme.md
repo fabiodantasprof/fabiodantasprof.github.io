@@ -8,4 +8,4 @@ Neste repositório, disponibilizo materiais a respeito da disciplina **Matemáti
 - [4º Bimestre](./pages/bimestre4.md)
 ## Referências
 
-[Inicio](../../Readme.md)
+[Inicio](../../README.md)
