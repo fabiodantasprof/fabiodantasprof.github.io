@@ -7,3 +7,5 @@ Neste repositório, disponibilizo materiais a respeito da disciplina **Matemáti
 - [3º Bimestre](./pages/bimestre3.md)
 - [4º Bimestre](./pages/bimestre4.md)
 ## Referências
+
+[Inicio](../../Readme.md)
