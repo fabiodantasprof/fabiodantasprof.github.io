@@ -1,4 +1,5 @@
 # Ementa
+## Matemática II
 
 - Ciclo trigonométrico: conceituação de medidas e comprimentos de arco. Conceituação, utilização e conversão das unidades de medidas de arco, o grau e o radiano. Arcos côngruos e simetrias de arcos no ciclo trigonométrico. Definição do seno , cosseno e
 tangente no ciclo trigonométrico. Relações trigonométricas.
@@ -9,4 +10,6 @@ tangente no ciclo trigonométrico. Relações trigonométricas.
 variância, desvio padrão e coeficiente de variação).
 - Áreas de figuras planas: unidade de áreas de medida e cálculo de áreas de polígonos, de círculos e suas composições.
 - Geometria espacial: conceitos primitivos de ponto, reta e plano e suas relações de posição no espaço. Conceituação e elementos dos poliedros, relação de Euler. Prismas. Pirâmides. Corpos redondos (cilindro, cone e esfera). Planificações de sólidos. Cálculo
-da área da superfície e de volumes de poliedros e corpos redondos
+da área da superfície e de volumes de poliedros e corpos redondos.
+
+[retornar](./Readme.md)
