@@ -3,3 +3,5 @@ Neste página, compartilho algumas anotações e materias autorais sobre discipl
 
 ## 2025
 - [Matemática I](./disciplinas/matematicai/)
+- [Matemática II](./disciplinas/matematicaii/)
+- [Matemática III](./disciplinas/matematicaiii/)
