@@ -1,4 +1,5 @@
 # Ementa
+## Matemática I
 - Grandezas e unidades de medidas: noções de instrumentos de medidas, unidades de medidas decimais e não decimais (medidas de comprimento, de superfícies, de capacidade, de tempo, dentre outros). Notação científica para expressar medidas.
 - Razão, proporção e regra de três: conceito de razão, proporção, proporcionalidade e suas aplicações nos diferentes contextos, com ênfase em regra de três simples e composta.
 - Introdução à Teoria dos Conjuntos: conceituação e operações com conjuntos com ênfase na resolução de problemas.
