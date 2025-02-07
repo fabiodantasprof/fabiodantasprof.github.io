@@ -5,3 +5,5 @@ Neste página, compartilho algumas anotações e materias autorais sobre discipl
 - [Matemática I](./disciplinas/matematicai/)
 - [Matemática II](./disciplinas/matematicaii/)
 - [Matemática III](./disciplinas/matematicaiii/)
+
+![video](https://www.youtube.com/watch?v=RMlZlTh4WJ8)
